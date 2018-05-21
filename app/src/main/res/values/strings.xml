@@ -1,0 +1,231 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+
+    <string name="category_city">City</string>
+    <string name="category_sightseeing">Sightseeing</string>
+    <string name="category_museum">Museum</string>
+    <string name="category_shopping">Shopping</string>
+    <string name="category_night_life">Night Life</string>
+
+    <!--Key Info-->
+    <string name="key_picture_id">pictureID</string>
+    <string name="key_detail_id">detailID</string>
+
+    <!--fragment_city-->
+    <string name="city_header1">City:</string>
+    <string name="city_header2">Province:</string>
+    <string name="city_header3">Country:</string>
+
+    <string name="city_subtitle1">Hangzhou</string>
+    <string name="city_subtitle2">Zhejiang</string>
+    <string name="city_subtitle3">China</string>
+
+    <string name="city_header4">About the city:</string>
+    <string name="city_para1">Hangzhou is the capital and most populous city of Zhejiang Province in east China.It sits at the head of Hangzhou Bay, which separates Shanghai and Ningbo. Hangzhou grew to prominence as the southern terminus of the Grand Canal and has been one of the most renowned and prosperous cities in China for much of the last millennium. The city\'s West Lake, a UNESCO World Heritage Site, immediately west of the city, is amongst its best-known attractions.</string>
+    <string name="city_para2">The subtropical monsoon climate contributes to varied seasonal sceneries, making Hangzhou one of China\'s most popular travel destinations all the year round.</string>
+
+    <string name="blankspace">\n</string>
+
+    <!--activity_detail-->
+    <string name="detail_header">Intro:</string>
+
+    <!--list_view-->
+    <string name="more">more>></string>
+    <!--Sightseeing Info-->
+    <string name="attraction1_name">West Lake</string>
+    <string name="attraction1_chinese_name">西湖</string>
+    <string name="attraction1_address">West Lake, Hangzhou</string>
+    <string name="attraction1_phone">86-571-87179617</string>
+    <string name="attraction1_detail">Among the world’s top-rated lakes, Hangzhou’s wondrous West Lake is one of the best. The real attraction of West Lake, however, lies not on the surface but in its abundant wealth of legend, myth, and enigma accumulated over various dynasties. \nThroughout China, there is no other lake that has caught the imagination of so many poets, scholars, painters, sculptors, calligraphers and even emperors over so long a time. Blessed with enchanting natural scenery and an enduring cultural legacy immortalized by a multitude of poems, calligraphy masterpieces, paintings and sculptures, West Lake’s boundless charm is not only a visual spectacle but also an experience felt by the heart.</string>
+
+    <string name="attraction2_name">Lingyin Temple</string>
+    <string name="attraction2_chinese_name">灵隐寺</string>
+    <string name="attraction2_address">No.1, Fayun Alley, Lingyin Road</string>
+    <string name="attraction2_phone">86-571-87968665</string>
+    <string name="attraction2_detail">Lingyin Temple, also known as Temple of Soul\'s Retreat (literal translated name), is the most celebrated place of interest around West Lake and one of the top ten Buddhist temples of China. In 1961 it was listed for protection as a key provincial historical and cultural site and considered a leading center for research related to Chinese Buddhist culture. Situated at the west end of the West Lake, the temple is confronted with the well-known Peak Flying from Afar (飞来峰, famous for its grotto carvings) and backed by Northern Peak (北高峰).</string>
+
+    <string name="attraction3_name">Meijiawu Tea Culture Village</string>
+    <string name="attraction3_chinese_name">梅家坞茶文化村</string>
+    <string name="attraction3_address">No.1, Meiling South Road</string>
+    <string name="attraction3_phone">86-571-87322067</string>
+    <string name="attraction3_detail">Meijiawu Tea Culture Village is located in the west of West Lake Scenic Area. It\'s a village with a history of over 600 years. It\'s also the biggest natural village where the world-famous West Lake Dragon (Longjing) Well Tea (西湖龙井) is produced. Besides its extraordinary tea and tea culture, Meijiawu Village is also renowned for its idyllic scene, which is seldom seen in an urbanized world. \nThe present Meijiawu Village has become much more easily accessible, thanks to the opening of the local longest Meijiawu-Lingyin tunnel (梅灵隧道). Domestic and international tourists regard the village as a must-see attraction. It consists of eight tourists sections, including the tea culture tourist center, the rural leisure tourist area, and a fishing village.</string>
+
+    <string name="attraction4_name">Viewing Fish at Flower Pond</string>
+    <string name="attraction4_chinese_name">花港观鱼</string>
+    <string name="attraction4_address">Between South end of Nanshan Road and Su Causeway</string>
+    <string name="attraction4_phone">86-571-87963033</string>
+    <string name="attraction4_detail">This gorgeous site is located in Huagang (Flower Pond) Park, which lies between Western Hill and Su Causeway. According to local history, there used to be a tiny creek that flowed from the nearby Flower Hill into West Lake, hence the name Flower Pond. Huagang Park used to be a private garden of Lu Yunsheng (a palace eunuch in the Southern Song Dynasty). The garden’s fame rose in the Qing Dynasty when Emperor Kangxi personally wrote an inscription of the garden’s name for engraving on a stone tablet erected by the fish pond. \nUsually, a boat ride on West Lake and trip around Huagang Park is part of a day’s itinerary. Two fish ponds in the park are must-sees for visitors. The small one, close to the main entrance to the park, is a historic fish pond. It is the original site of Viewing Fish at Flower Pond, which has a history of 800 years. Beside the fish pond stands the pavilion that houses the Imperial Stele. The big fish pond, lying almost in the middle of the park, is known as the red carp pond where a few thousand red carp are kept. There is an isle in the pond that is reached by a zigzag bridge, an arch bridge and a short embankment. The bank of the pond is planted with a rich variety of trees and flowers, the reflection of which in water is fantastic. Dotted with fallen petals is the undulating surface of the pond, in which red carp clothed with petals are seen sucking petals. Bending over the rails of the bridge and watching the carp noisily scrambling for food thrown to them is a delicious experience.</string>
+
+    <string name="attraction5_name">Hefang Street</string>
+    <string name="attraction5_chinese_name">河坊街</string>
+    <string name="attraction5_address">Hefang Street, Shangcheng District</string>
+    <string name="attraction5_phone">86-571-87075758</string>
+    <string name="attraction5_detail">The historic Hefang Old Street, located at the foot of the scenic Wu Hill in southern Hangzhou and quite close to the famous West Lake, overflows with culture in an urban setting. As one of the best preserved urban areas of ancient Hangzhou, it’s a snapshot of the city\'s history. \nHangzhou was China\'s capital during the Southern Song Dynasty more than 800 years ago, and Hangzhou’s urban Hefang Street has many shops, restaurants and taverns that represent its place in history. Hefang Street has stood the test of time, surviving through the Yuan, Ming and Qing dynasties. Today it is still a prosperous marketplace. Most of the businesses and shops in Hefang Street are over 100 years old. Hefang Street wasn’t only the heart of old Hangzhou but was also the commercial center in ancient China.</string>
+
+    <string name="attraction6_name">Lingering Snow on the Broken Bridge</string>
+    <string name="attraction6_chinese_name">断桥残雪</string>
+    <string name="attraction6_address">Beishan Road</string>
+    <string name="attraction6_phone">86-571-87996663</string>
+    <string name="attraction6_detail">The Broken Bridge is located at the east end of the Bai Causeway that separates the Inner Lake and the Outer Lake. The bridge is of a single-arch vaulted stone construction with stone balustrades on both sides. To its east is a pavilion that houses a stone tablet with the imperial inscription, “Lingering Snow on the Broken Bridge.”  Beside it and facing the bridge stands a lakeside pavilion with vermilion pillars and ornate beams. It offers a nice view of the Inner Lake and the Solitary Hill.\nThe Broken Bridge isn’t actually broken, and it’s as complete as any other. It’s called Broken Bridge because in the winter, when the sun comes out after a couple of day’s snowfall, the snow on the sunny side of the bridge melts first, while the snow on the shady side still lingers. Thus from a distance, the bridge appears to be broken.</string>
+
+    <string name="attraction7_name">Pagoda of Six Harmonies</string>
+    <string name="attraction7_chinese_name">六和塔</string>
+    <string name="attraction7_address">No.16, Zhijiang Road</string>
+    <string name="attraction7_phone">86-571-86591364</string>
+    <string name="attraction7_detail">There are three famous pagodas in Hangzhou, Leifeng Pagoda, Baochu Pagoda, and Pagoda of Six Harmonies. Among the three, Pagoda of Six Harmonies is known for its majesty and local people described it as a General.\nPagoda of Six Harmonies stands on the Moon Disc Hill (月轮山) overlooking the Qiantang River(钱塘江). The pagoda is built in 970 AD when Hangzhou was the capital of the Southern Song. It’s one of the most prominent wood-and-brick structures of ancient China and also the perfect place to enjoy the superb view of Qiantang River and the grandeur Qiantang River Bridges (钱塘江大桥).\nThere are two kinds of interpretation of the name—Six Harmonies. One is that the name is related to six codes of Buddhism. Six Harmonies mean the harmonies of body, mind, speech, opinion, wealth and abstinence from temptation. The other goes that Six Harmonies refer to the harmony of four directions (east, west, south, west), heaven and earth.</string>
+
+    <string name="attraction8_name">Three Pools Mirroring the Moon</string>
+    <string name="attraction8_chinese_name">三潭印月</string>
+    <string name="attraction8_address">West Lake District</string>
+    <string name="attraction8_phone">86-571-87065684</string>
+    <string name="attraction8_detail">This is the largest of the three fairy islets in the Outer Lake of West Lake, known for a wonderful scene created from three pools surrounding three pagodas on the night of the Mid-autumn Festival. The islet offers the best place to enjoy a beautiful full moon at the mid lake.\nThe three gourd-shaped stone pagodas can be seen sticking about two meters above water. They assume an equilateral triangle with each side being sixty-two meters in length. They are all hollow and each of them has five equally-shaped small round holes on their bodies. On the night of the Mid-autumn Festival, when there is a bright full moon hanging in the sky, local people love to ride boats there, put a lit candle into each of the pagodas and seal the holes with thin white paper. The candlelight reflected on the water surface resembles the reflection of the moon. Around the three pagodas you may find fifteen candles. But don’t forget about the actual moon in the sky and its reflection on the water. All together, therefore, there should be seventeen moons. At this moment, you’ll enjoy the reflections on the water around the pagodas, the clouds and the moon as they mingle with one another, while the candlelight, and the moonlight shed upon the lake enhancing each other’s beauty. With gentle ripples shimmering on the lake, there seems to be innumerable moons dancing in the water. What an enchanting scene.</string>
+
+    <string name="attraction9_name">Yue Fei Mausoleum</string>
+    <string name="attraction9_chinese_name">岳庙</string>
+    <string name="attraction9_address">No.80, Beishan Road</string>
+    <string name="attraction9_phone">86-571-85172244</string>
+    <string name="attraction9_detail">Built in 1221 and worn by time, the Mausoleum of General Yue Fei was repaired and renovated in 1978. This two-storey majestic building is attached with a tranquil garden with tall trees just a short distance away from West Lake. In the middle of Grand Hall of the mausoleum sits a big statue of General Yue Fei. Dressed in the red-tasseled helmet of a commander, a brilliant-colored robe adorned with golden pythons and a pair of military boots, this legendary hero is handsome and manly. Above his head, a plaque engraved with characters reading "Recover out Lost Territories" is a masterpiece written by General Yue Fei. The rear part of the Grand Hall displays murals depicting the story of the general's life recounted by his mother.\nIn the graveyard of General Yue Fei, pairs of stone horse, tiger and goat statues stand. The architecture of Yue Fei's Tomb maintains the Song Dynasty style after the renovation in 1970s. The steel statues of Qin Hui (who is responsible for General Yue Fei’s death), his wife and the two accomplices kneeling here are spat on and cursed by people passing by!</string>
+
+    <string name="attraction10_name">Xixi Wetland Park</string>
+    <string name="attraction10_chinese_name">西溪湿地公园</string>
+    <string name="attraction10_address">No.518, Tianmushan Road</string>
+    <string name="attraction10_phone">86-571-88106622</string>
+    <string name="attraction10_detail">Xixi National Wetland Park is well known as the "Three Xi’s (West) of Hangzhou" (short for the three landmark attractions in Hangzhou) along with West Lake (Xihu), and Xiling Seal-Engravers\' Society. Covering an area of 10.08 square kilometers, Xixi National Wetland Park is located at the west part of Hangzhou, less than 5 kilometers away from West Lake. It is China’s first and the only national wetland park, which combines urban wetland, farming wetland and cultural wetland.\nWater is the soul of the Xixi National Wetland Park. About seventy percent of the area is covered with water which creates a special habitat for various species of plants and animals. Six creeks crisscross the park, among which scatter various creeks, ponds, lakes and swamps with water-birds flying about just above them and fish swimming freely in them. Reed catkins in the autumn and plum blossoms in winter are also its highlights.</string>
+
+
+    <!--Museum Info-->
+    <string name="museum1_name">Zhejiang Provincial Museum</string>
+    <string name="museum1_chinese_name">浙江省博物馆(孤山)</string>
+    <string name="museum1_address">No.25, Gushan Road</string>
+    <string name="museum1_phone">86-571-87882333</string>
+    <string name="museum1_detail">One of China’s oldest museums, Zhejiang Provincial Museum was founded in 1929 as the West Lake Museum of Zhejiang Province. Over the past eight decades, it has become the largest comprehensive museum for the humanities in Zhejiang. It is also a first-class National Museum that was developed jointly by central and local government. The Gushan branch of Zhejiang Provincial Museum is located at the southern foot of Gushan Mountain. Most of its current buildings were rebuilt or expanded in 1993. It has a special garden-like layout consisting of individual buildings in a style characteristic of the region south of the Yangtze, and long winding corridors. In the west of its premises is the historic architectural complex of Wenlan Tower, which used to be the imperial library of the Qing dynasty and is now under national priority protection as a historic site. In the east is Zhejiang West Lake Gallery, which mainly features special art exhibitions. The elegant buildings nestling among the hills by the lake form an appealing cultural attraction in Hangzhou.</string>
+
+    <string name="museum2_name">Zhejiang Provincial Museum</string>
+    <string name="museum2_chinese_name">浙江省博物馆(武林)</string>
+    <string name="museum2_address">Zone E, West Lake Culture Square</string>
+    <string name="museum2_phone">86-571-87882333</string>
+    <string name="museum2_detail">The Wulin branch, which was completed and opened to the public towards the end of 2009, is located downtown at the West Lake Culture Square. It is mainly used for exhibitions about Zhejiang’s history and traditional culture, its modern revolutionary history, and its intangible heritage. It is a new venue for displaying Zhejiang’s long history, splendid culture and revolutionary course as well as a new public space for the arts and humanities. Adjacent to the Grand Canal, the modernized buildings of the Wulin branch are filled with a vitality that encompasses both past and present.</string>
+
+    <string name="museum3_name">Zhejiang Museum of Natural History</string>
+    <string name="museum3_chinese_name">浙江省自然博物馆</string>
+    <string name="museum3_address">No.6, West Lake Culture Square</string>
+    <string name="museum3_phone">86-571-88050941</string>
+    <string name="museum3_detail">Zhejiang Museum of Natural History, one of the oldest museums founded in China, is the only provincial museum to focus on the collection, exhibition and study of specimens of Life Science and Geoscience.\nBuilt in 1929 as an integral part of Zhejiang Provincial Museum, it declared independence in 1984. Now it covers an area of 8,000 square meters and contains 80,000 specimens of animals, plants, and minerals, which are displayed in its six exhibition rooms. Stroll along its well-lit exhibition rooms, you can marvel at specimens and replicas depicting dinosaurs, marine animals, terrestrial animals, protozoa, geological history, and plants. \nZhejiang Museum of Natural History actively launches cultural exchange programs with the outside world regularly. It has greeted assorted foreign guests from Japan, the USA, Germany and Taiwan for over 60 times, and has sent more than 80 members to go outsides to make investigation, research, study, and academic exchanges. In 2004, the museum made a tie of sisterhood with Fukui Prefectural Dinosaur Museum in Japan, and staged exhibitions seven times in Japan as well as other countries. The museum plays a positive role in carrying forward the national spirit and disseminating fine Chinese culture.</string>
+
+    <string name="museum4_name">China Silk Museum</string>
+    <string name="museum4_chinese_name">中国丝绸博物馆</string>
+    <string name="museum4_address">No.73-1, Yuhuangshan Road</string>
+    <string name="museum4_phone">86-571-87035150</string>
+    <string name="museum4_detail">Situated at the southern bank of the West Lake, China National Silk Museum is the largest silk museum on earth. Its eight exhibition halls including the Preface Hall, Relics Hall, Folk-custom Hall, Dyeing and Weaving Hall and Modern Achievements Hall will lead you into a fantastic world. \nThe Preface Hall introduces the 5000-year-long history of Chinese silk culture and provides irrefutable evidence to the fact that China is the earliest country that engaged in sericulture, filature and making clothes with silk. It also shows the history of the Silk Road through which silk was spread abroad. \nRelics Hall presents several preserved relics, which cover almost every dynasty of ancient China, and a number of pictures to explain Chinese traditional silk culture. These relics are gathered from various districts of the country, including those excavated along the Silk Road, on the grassland of Northern region of the country, and in the south region. It should be mentioned that tourists can appreciate a piece of fragmentary brocade that dates back 5,630 years. That is the earliest silk that has ever been discovered. \nFolk-custom Hall displays some prominent products created by outstanding weavers. Dyeing and Weaving Hall tells people how to dye and weave silk and the scientific theory of it. There are also weavers showing the whole process. Tourists are welcomed to participate in the activity and do it by themselves. Modern Achievements Hall displays the new achievements in silk production, silk research and silk trade and so on.</string>
+
+    <string name="museum5_name">Hangzhou Cuisine Museum</string>
+    <string name="museum5_chinese_name">杭帮菜博物馆</string>
+    <string name="museum5_address">No.9, Fenghuangshan Road</string>
+    <string name="museum5_phone">86-571-87922227</string>
+    <string name="museum5_detail">On the sunny side of the Fenghuang Hill (Phoenix Hill), the Hangzhou Cuisine Museum is open to visitors for free. The 12,470-square-meter museum consists of four sections – Professional Showroom, Qiantang Kitchen, Taste of Hangzhou, and Dongpo Pavilion. Unlike other museums, it allows visitors to taste Hangzhou delicacies, take cooking lessons and enjoy other activities. Bus 62, 194, 527, 808 and 822 go to the museum.</string>
+
+    <string name="museum6_name">Hangzhou Arts and Crafts Museum</string>
+    <string name="museum6_chinese_name">杭州工艺美术博物馆</string>
+    <string name="museum6_address">No.344, Xiaohe Road</string>
+    <string name="museum6_phone">86-571-88197511</string>
+    <string name="museum6_detail">Hangzhou Arts and Crafts Museum used to be an old silk factory by the Grand Canal. It is next to several other museums - China Fan Museum, China Knife, Scissors and Sword Museum, and China Umbrella Museum. The new landmark has collected nearly 600 works of arts and crafts, including a three-story-high bronze plum blossom - all mural made by local master Zhu Binren. The first floor contains shops selling artistic crafts; the second floor is an exhibition hall and studio space for several crafts masters; the third floor is a permanent exhibition hall displaying ceramics, sculpture, embroidery and other artistic crafts. A dozen of folk artists have studios on the second floor. Visitors are welcome to try their hand at various crafts and purchase them directly from the studio. The fourth floor is the Hangzhou Youth and Children\'s Cultural and Creative Center, containing 34 classrooms where young people study language, dance, music, art and crafts.</string>
+
+    <string name="museum7_name">West Lake Museum</string>
+    <string name="museum7_chinese_name">西湖博物馆</string>
+    <string name="museum7_address">No.89, Nanshan Road</string>
+    <string name="museum7_phone">86-571-87882333</string>
+    <string name="museum7_detail">West Lake is so beloved by the Hangzhounese that a museum was constructed to display its postcard-perfect natural scenery, irresistible charm, and enduring cultural heritage. Situated at the south part of Temple to King Qians, West Lake Museum features a fantastic array of cultural and historical portraitures representing Hangzhou, and is a great place to head before hatching any travel plans around this city. \nDecorated with photos, models, artifacts and replica scenes, it offers a mesmerizing visual introduction to the top sports dispersed around West Lake. It also functions as a tourist service center and a repository of literature and scientific works devoted to West Lake. \nWest Lake Museum’s modern design and amazing displays render the otherwise overexposed material vivid and engaging. You can experience a history lesson in its 3-D stereoscopic cinema. All the introductions are bilingual: Chinese and English, enabling you to learn which birds once lived around the West Lake, which flowers once blossomed around, which famous people once lived in Hangzhou, and what they have left behind.</string>
+
+    <string name="museum8_name">China Umbrella Museum</string>
+    <string name="museum8_chinese_name">中国伞博物馆</string>
+    <string name="museum8_address">No.450, Xiaohe Road</string>
+    <string name="museum8_phone">86-571-88197518</string>
+    <string name="museum8_detail">Chinese Umbrella Museum is an umbrella themed museum in Hangzhou. Since its opening, it has been one of the most popular tourist destinations of Hangzhou with its special tourist resources and unique charm. Umbrella in traditional Chinese literature is a classic image of romance and femininity. In many poems and essays, umbrellas are always connected with elegant ladies and mild gentlewomen.</string>
+
+    <string name="museum9_name">China Fan Museum</string>
+    <string name="museum9_chinese_name">中国扇博物馆</string>
+    <string name="museum9_address">No.450, Xiaohe Road</string>
+    <string name="museum9_phone">86-571-88197518</string>
+    <string name="museum9_detail">China Fan Museum covers 15,912 square meters. Large and small fans are suspended from the ceiling in the entrance hall, and on the walls are projected videos of fan construction. There are various kinds of fans, including long-handled, short-handled fan, round fans and folding fans. Ancient melodies are played and glittering fan-like lights suggest a more graceful world. In ancient times, fans were used to reflect social status. Men and women had different fans, which also reflected their status. Famous artists were often commissioned to paint pictures and write on the surface of fans, so the culture of fans is also related to calligraphy and art.</string>
+
+    <!--Store Info-->
+    <string name="store1_name">GDA Plaza</string>
+    <string name="store1_chinese_name">杭州国大百货</string>
+    <string name="store1_address">No.609 Yan\'an Road</string>
+    <string name="store1_phone">86-571-86676666</string>
+    <string name="store1_detail">GDA Plaza was newly opened on May 20, 2017. Covering an area of 150,000 sq m, it is probably the most anticipated business complex in Hangzhou. The plaza is situated in Hangzhou’s most prosperous business area – Wulin business central area and is the tallest shopping center with the most floors. The 28-floor building houses business, hotel and office entities. The business entities dominate the area from underground to the tenth floor and set the tone as "Funism of Modern People."\nGDA Plaza has elaborately selected around 60 dining brands including the Starbucks national flagship store. It's the fifth flagship Starbuck Coffee store in China and for Hangzhou this flagship store was especially designed to capture elements such as local culture and history. There is also an updated version of Grandma’s Kitchen to look forward to.</string>
+
+    <string name="store2_name">Raffles City, Hangzhou</string>
+    <string name="store2_chinese_name">杭州来福士</string>
+    <string name="store2_address">No. 228, Xinye Road</string>
+    <string name="store2_phone">86-571-81105678</string>
+    <string name="store2_detail">Hangzhou Raffles City Shopping Center grandly opened its doors to customers on April 27, 2017. It is CapitaLand’s sixth Raffles City, following Singapore, Shanghai, Beijing, Chengdu and Bahrain. As the most famed subsidiary urban complex brand of CapitaLand, each arise of Raffles is a city-class architectural masterpiece, receiving compliments worldwide.\nRaffles City, Hangzhou, locates at the heart of Hangzhou’s new central business district, Qianjiang New City, at the bank of Qiantang River. It covers a construction area of 380,000 square meters which includes six high-end real estates like Raffles Shopping Mall, International Super Level-A Office Building, Yashige Service Apartment, Hilton Conrad Hotel, Treasured Apartment and Boutique Apartment. Raffles in Hangzhou is a new architectural landmark in Hangzhou. It is not only a three- dimensional skyscraper, but also a sparkling “business card” the city presents to the world)</string>
+
+    <string name="store3_name">Hangzhou Tower Shopping Mall</string>
+    <string name="store3_chinese_name">杭州大厦购物中心</string>
+    <string name="store3_address">No.47, Huancheng North Road</string>
+    <string name="store3_phone">86-571-85153911</string>
+    <string name="store3_detail">Hangzhou Tower is located at Wulin Square. It’s not only of significant cultural importance, but also one of the most flourishing retail and economic centers in the heart of Hangzhou. As a landmark of Hangzhou, it is one of the most popular department stores in China. The department store provides high quality goods aiming at the people with medium and high buying power.\nAs a department store focusing on luxuries, many top brands such as Cartier, LV, Christine Dior, Burberry, Chanel and Hugo Boss can be purchased here. With the highest turnover, it has been the first to introduce, efficiently and quickly, the highest number of brands, among department stores in China.</string>
+
+    <string name="store4_name">Hangzhou Department Store</string>
+    <string name="store4_chinese_name">杭州百货大楼</string>
+    <string name="store4_address">No, 550-536, Yan\'an Road</string>
+    <string name="store4_phone">86-571-85158800</string>
+    <string name="store4_detail">Located on the southeast conor of Wulin Square, Yan\'an Road is in the busiest commercial district, and Hangzhou Department Store is there. With a total business area of about 22,000 square meters, the department store was opened on 1st November, 1989 and the new southern block was commenced on the same day in 1999 with corridors linking the two blocks. The buildings give a modern look and the corridors inside give smooth feeling, thus give the overall impression of the tinge of modern commercialism and popular culture.</string>
+
+    <string name="store5_name">Jiefang Road Department Store</string>
+    <string name="store5_chinese_name">杭州解百购物广场</string>
+    <string name="store5_address">No.251, Jiefang Road</string>
+    <string name="store5_phone">86-571-87016888</string>
+    <string name="store5_detail">Jiebai is a long-standing Chinese enterprise with a history of over a hundred years. The shopping mall enjoys an advantageous location for it’s just a stone’s throw away from the West Lake and is the architectural landmark of the Hubin Business Area.\nJiefang Road Department Store is located at Jiefang Road in southern downtown Hangzhou. Its former name was Hangzhou Emporium Company Limited, which was founded in 1918. It was at first a small store that had a business area of 720 square meters and sold just about 1000 kinds of goods with an annual turnover of about three million RMB, and gradually expanded and developed into the 18,000 square meters it is today and selling more than 50,000 kinds of commodities with total turnover of more than 800 million RMB Yuan annually. Now the department store has integrated business, tourism and import and export trade as a whole. Its wide range of commodities that suit everyone's need and this is also the business philosophy of the company.</string>
+
+    <string name="store6_name">Intime Department Store(Wulin)</string>
+    <string name="store6_chinese_name">银泰百货(武林店)</string>
+    <string name="store6_address">No.530, Yan\'an Road</string>
+    <string name="store6_phone">86-571-85068180</string>
+    <string name="store6_detail">Zhejiang Intime Department Store Co., Ltd. was founded and opened to business in 1998. With invested 400 million RMB Yuan, Intime Department Store (Wulin) is the first of its retail investment project in Hangzhou and located at heart of the city – south of Wulin Square (武林广场), with Hangzhou Tower (杭州大厦) and Hangzhou Department Store (杭州百货大楼) just around the corner. It is one of the largest department store buildings in Hangzhou, which includes general merchandises (with more than 60,000 high quality commodities), restaurants, and amusement and leisure purposes. The building on the street side (Yan\'an Road) has length of 160 m and total business area occupies about 31,500 square meters; with more than 3000 staffs of various ranks, 28 escalators and lifts for passengers and goods purposes; as well as high-tech fire protection, security monitor, computerized communication, acoustic and cashier systems, which make you feel safe and comfortable inside.</string>
+
+    <string name="store7_name">Intime Department Store(West Lake)</string>
+    <string name="store7_chinese_name">银泰百货(西湖店)</string>
+    <string name="store7_address">No.98, Yan\'an Road</string>
+    <string name="store7_phone">86-571-87002888</string>
+    <string name="store7_detail">There are different department store groups dominate different areas of China. The one dominating Hangzhou is Intime Department Store. Right now, there are about seven Intime Department Stores in downtown Hangzhou. They are popular places and fashion world. Intime Department Store (West Lake) is situated on the Yan\'an Road next to the famous Wushan Square (吴山广场) and near to West Lake.</string>
+
+    <!--NightLife Info-->
+    <string name="club1_name">9 Club</string>
+    <string name="club1_chinese_name">酒球会</string>
+    <string name="club1_address">No.262, Wantang Road</string>
+    <string name="club1_phone">86-571-81060808</string>
+    <string name="club1_detail">9 Club has set a new standard for billiards in our fair city, but to call this place just a pool hall would do it a disservice. \nSpread out over hundreds of well-decorated square meters, the 9 Club can be divided into two distinct areas: one for billiards, and one for live music. With 18 brand new BCN and Brunswick tables, at least two full-size Riley brand snooker tables, high-quality pool cues, and an array of accessories available for sale. Hourly rates for the BCN tables are a not unreasonable 48RMB/hour, while the higher quality Brunswick tables will cost you 68RMB/hour. Snooker will cost you 80RMB/hour. They also have a few trainers floating around who’ll be happy to challenge you and teach you new skills. There’s even foosball and air hockey to play on the off chance all the pool tables are occupied when you arrive. If you’re looking for a more intimate affair, they also have two, VIP rooms, replete with their own pool tables, KTV equipment, and private bathrooms. Call ahead for rates.</string>
+
+    <string name="club2_name">Huanglou JZ Club</string>
+    <string name="club2_chinese_name">黄楼爵士音乐俱乐部</string>
+    <string name="club2_address">No.6, Liuying Road</string>
+    <string name="club2_phone">86-571-87028298</string>
+    <string name="club2_detail">Hangzhou’s premier jazz venue, JZ Club, continues to bring some of the best performers from China and abroad here to Hangzhou. The three-story space offers intimate seating everywhere, with the first floor being non-smoking out of respect to the performers. The revamped wine list is one of the best in the city, and their selection of single malt whiskeys will satisfy even the most discerning of drinkers. Nice food is also available if you’re feeling a bit hungry. Simply put, if you’re looking for jazz in Hangzhou, nobody does it better than JZ.</string>
+
+    <string name="club3_name">Amigo Bar</string>
+    <string name="club3_chinese_name">雅谷酒吧</string>
+    <string name="club3_address">No.8, Yugu Road</string>
+    <string name="club3_phone">86-571-88809599</string>
+    <string name="club3_detail">When you\'ve got a free afternoon, there\'s now no better a place to spend it than in the Amigo\'s Bar. It used to be a small windowless bar that could barely hold 30 people, but now it\'s able to hold close to 200 and there\'s not a place inside that\'s without sunlight. This is definitely one of the most nicely decorated bars in town, and if having flowers is a must on your bar must-have list, then this is your place. They've got two outdoor patios: one upstairs and one down, and they are big enough to hold parties on and when the weather gets colder, they've got two electric fireplaces to keep you warm and toasty.</string>
+
+    <string name="club4_name">Mint Lounge &amp; Cocktails</string>
+    <string name="club4_chinese_name">Mint Lounge&amp;Cocktails 酒吧</string>
+    <string name="club4_address">No.124, Shuguang Road</string>
+    <string name="club4_phone">86-571-87995929</string>
+    <string name="club4_detail">The entrance to Mint isn’t that obvious from the street, but if you just walk up and to the left side of the main entrance to the Boutique Tea Hotel, it’s a breeze to find. If it’s a loud crowded place that you want to go to, stay away from here. If it’s a nice, private getaway with outdoor seating that you want, try Mint. \nThis quiet Mint bar gets its name from the fresh mint growing all over the tops of the fences that keep out the street noise. It offers people a pleasant escape from the, usually loud, bar scene. \nMint’s garden has comfortable rattan furniture. Interior decor is simple and tasteful, with wooden paneling and upholstered furniture. It serves a range of wines and cocktails, including mojitos, martinis and absinthe. And their cakes are served with mint leaves.</string>
+
+    <string name="club5_name">In Club</string>
+    <string name="club5_chinese_name">杭州隐楼</string>
+    <string name="club5_address">No.23, Yanggong Causeway</string>
+    <string name="club5_phone">86-571-87634380</string>
+    <string name="club5_detail">In Club is as upscale as the hotel in which it resides. Inside, the club is arranged around a central rectangular bar area fringed with stools. Opposite one side, there is a stage with a band playing. Radiating out from the central entertainment area are a number of other sections: a wine lounge, beer bar, whisky bar, cigar bar, and a teppanyaki section. Every section has its own style, but still matches well with the main design scheme which is based on a traditional Chinese villa.\nFrom the exquisite decoration of In Club, I guess you can get an idea of the prices of drinks in the club. A can of Budweiser at In Club is 130RMB, while Bud draught is 80RMB. Guinness is at the top of the scale (100RMB), while your cheapest brewski is a Qingdao at 70RMB. Cocktails are at 80RMB, which is the same as a glass of orange juice. Coffees (mocha, cappucinno, latte) are 60RMB each, and a Coke will set you back 30RMB. For what it’s worth, In Club is really a nice place to have a drink and make some friends.</string>
+
+    <string name="club6_name">Pin Pub</string>
+    <string name="club6_chinese_name">品酒吧</string>
+    <string name="club6_address">No.135, Yan\'an Road</string>
+    <string name="club6_phone">86-571-86927979</string>
+    <string name="club6_detail">Pin Pub is located on the 4th floor of the Carrefour building on Yan\'an Road. The owners have obviously started with inspiration from a 360° Shanghai bar, removed the Bund balcony view and surrounded a main room with a warren of part-secluded, teahouse-like, dens. Outlying, you\'ll also find a further two small bars, pool and foosball tables. Completing the main room is one of the largest dance floors in Hangzhou and a raised stage that is currently home to a pretty good, seven-piece band, from the Philippines and house DJ. Drinks here are a little bit expensive. But it’s worth every penny of yours.</string>
+
+</resources>

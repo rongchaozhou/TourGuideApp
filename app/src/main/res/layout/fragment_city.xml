@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/main_background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!--part one-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingBottom="@dimen/padding_medium"
+            android:paddingLeft="@dimen/padding_medium"
+            android:paddingTop="@dimen/padding_medium">
+
+            <ImageView
+                style="@style/Image"
+                android:src="@drawable/hangzhou_fragment" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:paddingTop="@dimen/padding_little">
+
+                <TextView
+                    style="@style/Header1"
+                    android:text="@string/city_header1" />
+
+                <TextView
+                    style="@style/Subtitle1"
+                    android:text="@string/city_subtitle1" />
+
+                <TextView
+                    style="@style/Header1"
+                    android:text="@string/city_header2" />
+
+                <TextView
+                    style="@style/Subtitle1"
+                    android:text="@string/city_subtitle2" />
+
+                <TextView
+                    style="@style/Header1"
+                    android:text="@string/city_header3" />
+
+                <TextView
+                    style="@style/Subtitle1"
+                    android:text="@string/city_subtitle3" />
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <!--part two-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/text_background"
+            android:orientation="vertical"
+            android:paddingLeft="@dimen/padding_medium"
+            android:paddingRight="@dimen/padding_large"
+            android:paddingTop="@dimen/padding_little">
+
+            <TextView
+                style="@style/Header2"
+                android:text="@string/city_header4" />
+
+            <TextView
+                style="@style/text"
+                android:text="@string/city_para1" />
+
+            <TextView
+                style="@style/text"
+                android:text="@string/city_para2" />
+
+            <TextView
+                style="@style/text"
+                android:text="@string/blankspace" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

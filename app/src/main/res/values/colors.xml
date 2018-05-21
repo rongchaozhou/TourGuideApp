@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--Fragment City-->
+    <color name="main_background">#B0C4DE</color>
+    <color name="text_background">#F0F8FF</color>
+    <color name="header1_color">#191970</color>
+    <color name="header2_color">#696969</color>
+</resources>
