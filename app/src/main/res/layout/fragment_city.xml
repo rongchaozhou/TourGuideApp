@@ -20,8 +20,9 @@
             android:paddingTop="@dimen/padding_medium">
 
             <ImageView
+                android:id="@+id/cityImage"
                 style="@style/Image"
-                android:src="@drawable/hangzhou_fragment" />
+                />
 
             <LinearLayout
                 android:layout_width="match_parent"
