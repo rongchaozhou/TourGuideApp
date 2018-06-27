@@ -5,8 +5,10 @@ import android.support.v7.app.AppCompatActivity;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.squareup.picasso.Picasso;
+
 public class DetailActivity extends AppCompatActivity {
-    private int mImageResourceId;
+    private String mImageResourceURL;
     private int mPlaceDetailId;
 
     @Override
@@ -16,12 +18,12 @@ public class DetailActivity extends AppCompatActivity {
 
         if (getIntent().getExtras() != null) {
             Bundle bundle = getIntent().getExtras();
-            mImageResourceId = bundle.getInt(getString(R.string.key_picture_id));
+            mImageResourceURL = bundle.getString(getString(R.string.key_picture_id));
             mPlaceDetailId = bundle.getInt(getString(R.string.key_detail_id));
         }
 
         ImageView detail_image_view = (ImageView) findViewById(R.id.detail_image_view);
-        detail_image_view.setImageResource(mImageResourceId);
+        Picasso.get().load(mImageResourceURL).into(detail_image_view);
 
         TextView detail_text_view = (TextView) findViewById(R.id.detail_text_view);
         detail_text_view.setText(mPlaceDetailId);

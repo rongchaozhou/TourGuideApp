@@ -8,6 +8,8 @@ import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.squareup.picasso.Picasso;
+
 import java.util.ArrayList;
 
 public class PlaceAdapter extends ArrayAdapter<Place> {
@@ -26,7 +28,7 @@ public class PlaceAdapter extends ArrayAdapter<Place> {
         Place currentPlace = getItem(position);
 
         ImageView imageView = listItemView.findViewById(R.id.image);
-        imageView.setImageResource(currentPlace.getImageResourceId());
+        Picasso.get().load(currentPlace.getImageResourceURL()).into(imageView);
 
         TextView placeName = listItemView.findViewById(R.id.placeName_text_view);
         placeName.setText(currentPlace.getPlaceNameId());

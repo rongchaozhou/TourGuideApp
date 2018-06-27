@@ -5,15 +5,15 @@ public class Place {
     private int mPlaceChineseNameId;
     private int mPlaceAddressId;
     private int mPlacePhoneId;
-    private int mImageResourceId;
+    private String mImageResourceURL;
     private int mPlaceDetailId;
 
-    public Place(int placeNameId, int placeChineseNameId, int placeAddressId, int placePhoneId, int imageResourceId, int placeDetailId) {
+    public Place(int placeNameId, int placeChineseNameId, int placeAddressId, int placePhoneId, String imageResourceURL, int placeDetailId) {
         mPlaceNameId = placeNameId;
         mPlaceChineseNameId = placeChineseNameId;
         mPlaceAddressId = placeAddressId;
         mPlacePhoneId = placePhoneId;
-        mImageResourceId = imageResourceId;
+        mImageResourceURL = imageResourceURL;
         mPlaceDetailId = placeDetailId;
     }
 
@@ -33,8 +33,8 @@ public class Place {
         return mPlacePhoneId;
     }
 
-    public int getImageResourceId() {
-        return mImageResourceId;
+    public String getImageResourceURL() {
+        return mImageResourceURL;
     }
 
     public int getPlaceDetailId() {
